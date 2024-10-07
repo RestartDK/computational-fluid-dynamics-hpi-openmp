@@ -1,6 +1,6 @@
 # MPI Matrix Multiplication
 
-This project demonstrates a parallel matrix multiplication using the MPI (Message Passing Interface) framework. It distributes rows of matrix A among different processes, multiplies them with matrix B, and gathers the results into matrix C.
+This project demonstrates a parallel matrix multiplication using the MPI (Message Passing Interface) framework and applying a convolutional filter to a grayscaled image with OpenMP. It distributes rows of matrix A among different processes, multiplies them with matrix B, and gathers the results into matrix C.
 
 ## Requirements
 
